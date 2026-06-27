@@ -1,0 +1,296 @@
+<events>
+	<!-- HALLOWEEN-EVENT -->
+	<event graphicId="1">
+		<img src="img/harbour/caribbean_bg.png" alt="img/halloween/harbour/caribbean_bg.png" />
+		<img src="img/harbour/freshlands_bg.png" alt="img/halloween/harbour/freshlands_bg.png" />
+		<img src="img/harbour/desert_camp_bg.png" alt="img/halloween/harbour/desert_camp_bg.png" />
+		<img src="img/harbour/iceworld_bg.png" alt="img/halloween/harbour/iceworld_bg.png" />
+		<img src="img/harbour/buttons/governor.png" alt="img/halloween/harbour/buttons/governor.png" />
+		<img src="img/harbour/buttons/guild.png" alt="img/halloween/harbour/buttons/guild.png" />
+		<img src="img/harbour/buttons/shipyard.png" alt="img/halloween/harbour/buttons/shipyard.png" />
+		<img src="img/harbour/buttons/tavern.png" alt="img/halloween/harbour/buttons/tavern.png" />
+		<img src="img/harbour/buttons/auctionhouse.png" alt="img/halloween/harbour/buttons/auctionhouse.png" />
+		<img src="img/harbour/buttons/crafter.png" alt="img/halloween/harbour/buttons/crafter.png" />
+		<img src="img/icons/avatar/guild/big/1.png" alt="img/halloween/icons/avatar/guild/big/1.png" />
+		<img src="img/icons/avatar/guild/small/1.png" alt="img/halloween/icons/avatar/guild/small/1.png" />
+		<img src="img/icons/avatar/harbour/big/governor.png" alt="img/halloween/icons/avatar/harbour/big/governor.png" />
+		<img src="img/icons/avatar/harbour/big/guild.png" alt="img/halloween/icons/avatar/harbour/big/guild.png" />
+		<img src="img/icons/avatar/harbour/big/shipyard.png" alt="img/halloween/icons/avatar/harbour/big/shipyard.png" />
+		<img src="img/icons/avatar/harbour/big/tavern.png" alt="img/halloween/icons/avatar/harbour/big/tavern.png" />
+		<img src="img/icons/avatar/harbour/big/auctionhouse.png" alt="img/halloween/icons/avatar/harbour/big/auctionhouse.png" />
+		<img src="img/icons/avatar/harbour/big/battlemaster.png" alt="img/halloween/icons/avatar/harbour/big/battlemaster.png" />
+		<img src="img/icons/avatar/harbour/big/smugglersbay.png" alt="img/halloween/icons/avatar/harbour/big/smugglersbay.png" />
+		<img src="img/icons/avatar/harbour/big/crafter.png" alt="img/halloween/icons/avatar/harbour/big/crafter.png" />
+		<img src="img/icons/avatar/nonplayer/1.png" alt="img/halloween/icons/avatar/nonplayer/1.png" />
+		<img src="img/icons/avatar/nonplayer/2.png" alt="img/halloween/icons/avatar/nonplayer/2.png" />
+		<img src="img/icons/avatar/nonplayer/3.png" alt="img/halloween/icons/avatar/nonplayer/3.png" />
+		<img src="img/icons/avatar/nonplayer/4.png" alt="img/halloween/icons/avatar/nonplayer/4.png" />
+		<img src="img/icons/avatar/nonplayer/13.png" alt="img/halloween/icons/avatar/nonplayer/13.png" />
+		<img src="img/icons/avatar/player/big/1.png" alt="img/halloween/icons/avatar/player/big/1.png" />
+		<img src="img/icons/avatar/player/small/1.png" alt="img/halloween/icons/avatar/player/small/1.png" />
+		<img src="img/icons/avatar/player/big/6.png" alt="img/halloween/icons/avatar/player/big/6.png" />
+		<img src="img/icons/avatar/player/small/6.png" alt="img/halloween/icons/avatar/player/small/6.png" />
+        <img src="img/icons/training/small/1.png" alt="img/halloween/icons/training/small/1.png" />
+        <img src="img/icons/teaser/crafting/0.png" alt="img/halloween/icons/teaser/crafting/0.png"/>
+		<resource src="preset" alt="halloween">
+			<cloud1 />
+			<cloud2 />
+			<cloud3 />
+			<cloud4 />
+			<cloud5 />
+			<loot1 />
+			<loot2 />
+			<loot3 />
+			<seagull />
+		</resource>
+		<overlay type="minimap" src="img/halloween/buttonDecor/minimap.png" />
+	</event>
+	<!-- WINTER-EVENT -->
+	<event graphicId="2">
+		<img src="img/harbour/caribbean_bg.png" alt="img/winter/harbour/caribbean_bg.png" />
+		<img src="img/harbour/freshlands_bg.png" alt="img/winter/harbour/freshlands_bg.png" />
+		<img src="img/harbour/desert_camp_bg.png" alt="img/winter/harbour/desert_camp_bg.png" />
+		<img src="img/harbour/iceworld_bg.png" alt="img/winter/harbour/iceworld_bg.png" />
+		<img src="img/harbour/buttons/auctionhouse.png" alt="img/winter/harbour/buttons/auctionhouse.png" />
+        <img src="img/harbour/buttons/crafter.png" alt="img/winter/harbour/buttons/crafter.png" />
+		<img src="img/harbour/buttons/governor.png" alt="img/winter/harbour/buttons/governor.png" />
+		<img src="img/harbour/buttons/guild.png" alt="img/winter/harbour/buttons/guild.png" />
+		<img src="img/harbour/buttons/shipyard.png" alt="img/winter/harbour/buttons/shipyard.png" />
+		<img src="img/harbour/buttons/tavern.png" alt="img/winter/harbour/buttons/tavern.png" />
+		<img src="img/icons/avatar/guild/big/1.png" alt="img/winter/icons/avatar/guild/big/1.png" />
+		<img src="img/icons/avatar/guild/small/1.png" alt="img/winter/icons/avatar/guild/small/1.png" />
+		<img src="img/icons/avatar/guildisland/small/1.png" alt="img/winter/icons/avatar/guildisland/small/1.png" />
+		<img src="img/icons/avatar/harbour/big/auctionhouse.png" alt="img/winter/icons/avatar/harbour/big/auctionhouse.png" />
+        <img src="img/icons/avatar/harbour/big/crafter.png" alt="img/winter/icons/avatar/harbour/big/crafter.png" />
+		<img src="img/icons/avatar/harbour/big/battlemaster.png" alt="img/winter/icons/avatar/harbour/big/battlemaster.png" />
+		<img src="img/icons/avatar/harbour/big/governor.png" alt="img/winter/icons/avatar/harbour/big/governor.png" />
+		<img src="img/icons/avatar/harbour/big/guild.png" alt="img/winter/icons/avatar/harbour/big/guild.png" />
+		<img src="img/icons/avatar/harbour/big/shipyard.png" alt="img/winter/icons/avatar/harbour/big/shipyard.png" />
+		<img src="img/icons/avatar/harbour/big/smugglersbay.png" alt="img/winter/icons/avatar/harbour/big/smugglersbay.png" />
+		<img src="img/icons/avatar/harbour/big/tavern.png" alt="img/winter/icons/avatar/harbour/big/tavern.png" />
+		<img src="img/icons/avatar/nonplayer/1.png" alt="img/winter/icons/avatar/nonplayer/1.png" />
+		<img src="img/icons/avatar/nonplayer/2.png" alt="img/winter/icons/avatar/nonplayer/2.png" />
+		<img src="img/icons/avatar/nonplayer/3.png" alt="img/winter/icons/avatar/nonplayer/3.png" />
+		<img src="img/icons/avatar/nonplayer/4.png" alt="img/winter/icons/avatar/nonplayer/4.png" />
+		<img src="img/icons/avatar/nonplayer/13.png" alt="img/winter/icons/avatar/nonplayer/13.png" />
+		<img src="img/icons/avatar/player/big/1.png" alt="img/winter/icons/avatar/player/big/1.png" />
+		<img src="img/icons/avatar/player/big/6.png" alt="img/winter/icons/avatar/player/big/6.png" />
+		<img src="img/icons/avatar/player/small/1.png" alt="img/winter/icons/avatar/player/small/1.png" />
+		<img src="img/icons/avatar/player/small/6.png" alt="img/winter/icons/avatar/player/small/6.png" />
+        <img src="img/icons/training/small/1.png" alt="img/winter/icons/training/small/1.png" />
+        <img src="img/icons/teaser/crafting/0.png" alt="img/winter/icons/teaser/crafting/0.png"/>
+		<resource src="preset" alt="winter">
+			<loot1 />
+			<loot2 />
+			<loot3 />
+		</resource>
+		<overlay type="round" src="img/winter/snow/round.png" />
+		<overlay type="square" src="img/winter/snow/square.png" />
+		<overlay type="minimap" src="img/winter/snow/minimap.png" />
+	</event>
+	<!-- FULL MOON-EVENT -->
+	<event graphicId="3">
+	</event>
+	<!-- DRAGONHUNT-EVENT -->
+	<event graphicId="4">
+		<img src="img/icons/avatar/player/big/1.png" alt="img/spring/icons/avatar/player/big/1.png" />
+		<img src="img/icons/avatar/player/big/6.png" alt="img/spring/icons/avatar/player/big/6.png" />
+		<img src="img/icons/avatar/player/small/1.png" alt="img/spring/icons/avatar/player/small/1.png" />
+		<img src="img/icons/avatar/player/small/6.png" alt="img/spring/icons/avatar/player/small/6.png" />
+		<img src="img/icons/avatar/player/small/6.png" alt="img/spring/icons/avatar/player/small/6.png" />		
+		<img src="img/icons/avatar/minigame/big/1_normal.png" alt="img/spring/icons/avatar/minigame/big/1_normal.png" />
+		<img src="img/icons/avatar/minigame/big/1_angry.png" alt="img/spring/icons/avatar/minigame/big/1_angry.png" />
+		<img src="img/icons/avatar/minigame/big/1_happy.png" alt="img/spring/icons/avatar/minigame/big/1_happy.png" />		
+		<img src="img/icons/avatar/minigame/big/6_normal.png" alt="img/spring/icons/avatar/minigame/big/6_normal.png" />
+		<img src="img/icons/avatar/minigame/big/6_angry.png" alt="img/spring/icons/avatar/minigame/big/6_angry.png" />
+		<img src="img/icons/avatar/minigame/big/6_happy.png" alt="img/spring/icons/avatar/minigame/big/6_happy.png" />		
+		<resource src="preset" alt="dragonhunt">
+			<loot1 />
+			<loot2 />
+			<loot3 />
+		</resource>
+		<overlay type="round" src="img/spring/overlay/round.png" />
+		<overlay type="square" src="img/spring/overlay/square.png" />
+		<overlay type="minimap" src="img/spring/overlay/minimap.png" />
+		<overlay type="captainsorders" src="img/spring/overlay/captainsorders.png" />
+	</event>
+	<!-- DEEP SEA DIVER-EVENT -->
+	<event graphicId="5">
+	</event>
+	<!-- SEASON-BREAK-EVENT -->
+	<event graphicId="6">
+	</event>
+	<!-- SEASON-START-EVENT -->
+	<event graphicId="7">
+	</event>
+	<!-- HAPPY HOUR-EVENT -->
+	<event graphicId="8">
+	</event>
+	<!-- BONUSMAP-DAY-EVENT -->
+	<event graphicId="9">
+	</event>
+	<!-- DOUBLE-XP-EVENT -->
+	<event graphicId="10">
+	</event>
+	<!-- SUMMERGAMES-EVENT -->
+	<event graphicId="11">
+        <overlay type="minimap" src="img/summergames/overlay/minimap.png" />
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT USA -->
+	<event graphicId="12">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT FRANCE -->
+	<event graphicId="13">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT BELGIUM -->
+	<event graphicId="14">
+	</event>
+	<!-- BIRTHDAY-EVENT -->
+	<event graphicId="15">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT SWISS -->
+	<event graphicId="16">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT HUNGARY -->
+	<event graphicId="17">
+	</event>
+	<!-- SALE-DAYS -->
+	<event graphicId="18">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT BRAZIL -->
+	<event graphicId="19">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT MEXICO -->
+	<event graphicId="20">
+	</event>
+	<!-- DYNAMIC PRICED ITEMS -->
+	<event graphicId="21">
+	</event>
+	<!-- ITLP-DAY -->
+	<event graphicId="22">
+	</event>
+	<!-- BATTLEGROUNDWEEK CAPTURE-THE-FLAG -->
+	<event graphicId="23">
+	</event>
+	<!-- BATTLEGROUNDWEEK DOMINATION -->
+	<event graphicId="24">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT GERMANY -->
+	<event graphicId="25">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT SPAIN -->
+	<event graphicId="26">
+	</event>
+	<!-- STORMDAY -->
+	<event graphicId="27">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT AUSTRIA -->
+	<event graphicId="28">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT POLAND -->
+	<event graphicId="29">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT CZECHIA + SLOVAKIA -->
+	<event graphicId="30">
+	</event>
+	<!-- FRIEND-EVENT -->
+	<event graphicId="31">
+	</event>
+	<!-- BATTLEGROUNDWEEK DESTROY THE TOWER -->
+	<event graphicId="32">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT FINNLAND -->
+	<event graphicId="33">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT ROMANIA -->
+	<event graphicId="34">
+	</event>
+	<!-- BATTLEGROUNDWEEK LAST-MAN-STANDING -->
+	<event graphicId="35">
+	</event>
+	<!-- VALENTINE-EVENT -->
+	<event graphicId="36">
+		<overlay type="round" src="img/valentine/buttonDecor/round.png" />
+		<overlay type="square" src="img/valentine/buttonDecor/square.png" />
+		<overlay type="minimap" src="img/valentine/buttonDecor/minimap.png" />
+		<overlay type="captainsorders" src="img/valentine/buttonDecor/captainsorders.png" />
+	</event>
+	<!-- BATTLEGROUNDWEEK PIRATEBALL -->
+	<event graphicId="37">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT RUSSIA -->
+	<event graphicId="38">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT BULGARIA -->
+	<event graphicId="39">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT GREECE -->
+	<event graphicId="40">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT UK -->
+	<event graphicId="41">
+	</event>
+	<!-- BATTLEGROUNDWEEK DOTA -->
+	<event graphicId="42">
+	</event>
+	<!-- APRIL 1st -->
+	<event graphicId="43">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT NETHERLANDS -->
+	<event graphicId="44">
+	</event>
+	<!-- SMUGGLERBAY_DAY -->
+	<event graphicId="45">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT TURKEY -->
+	<event graphicId="46">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT ARGENTINA -->
+	<event graphicId="47">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT DENMARK -->
+	<event graphicId="48">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT ITALY -->
+	<event graphicId="49">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT SWEDEN -->
+	<event graphicId="50">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT NORWAY -->
+	<event graphicId="51">
+	</event>
+	<!-- NATIONAL HOLIDAY-EVENT PORTUGAL -->
+	<event graphicId="52">
+	</event>
+	<!-- GUILD-XP_DAY -->
+	<event graphicId="53">
+	</event>
+	<!-- SUMMERGAMES HUNT -->
+	<event graphicId="59">
+	</event>
+	<!-- NATIONAL_HOLIDAY_MENA -->
+	<event graphicId="60">
+	</event>
+    <!-- MONSTER HUNT -->
+    <event graphicId="61">
+    </event>
+    <!-- SMUGGLERBAY_DAY: SHIPS -->
+    <event graphicId="62">
+    </event>
+    <!-- INVASION -->
+    <event graphicId="64">
+    </event>
+    <!-- CAPTAIN'S BARGAINS -->
+    <event graphicId="65">
+    </event>
+    <!-- SKULL AND CROSSBONES DAY -->
+    <event graphicId="66">
+    </event>
+    <!-- SMUGGLERBAY_DAY: SETS -->
+    <event graphicId="67">
+    </event>
+    <!-- LITTLE FEAR -->
+    <event graphicId="68">
+    </event>
+</events>
