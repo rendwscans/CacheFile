@@ -1,0 +1,168 @@
+.bgc { /*color: #2D0600;*/ font-family: verdana, arial; font-size: 11px; }
+.rtl .bgc { font-family: tahoma, arial; }
+
+.bgc a, .bgc a:link, .bgc a:visited, .bgc a:focus, .bgc a:active {
+    color: #2D0600;
+}
+
+.bgc a:hover {
+    text-decoration: underline;     /* global link hover effect */
+}
+
+.bgc input[type=text],
+.bgc input[type=email],
+.bgc input[type=password] {
+    padding: 0 3px;
+    border: 1px solid #343333;
+    font-size: 11px;
+    width: 95px;
+}
+
+.bgc .bgcdw_login_container_form .bgcdw_errors_flash { display:none; } /* LoginForm Inline Flash Messages */
+
+/* Inline error displaying: user can hover for details  */
+.bgc div.bgcdw_errors,
+.bgc div.bgcdw_errors_flash,
+.bgc_passwordReminder_container .bgcdw_errors_flash ul {
+
+    /* display:none ==> no inline error messages from backend
+       display:block ==> show inline error messages from backend */
+
+    display: none;
+}
+
+/*  Overlay error displaying: user gets all errors in a dump  */
+.bgcdw_errors_all_wrapper {
+
+   /* display:none ==> no error overlay from backend
+      display:block ==> show error overlay from backend */
+
+    display: block;
+}
+
+/* HACK PIRATES-3703 */
+.bgcdw_errors_all li {
+    background: transparent url('/images/global/icons/icon-error.png') no-repeat center left;
+}
+
+.rtl .bgcdw_errors_all li { right: 0; }
+.rtl .bgcdw_errors_all_close { right: auto; left: 12px;}
+.rtl #bgc_signup_short_container {width:315px;}
+
+/*** MODIFIED ***/
+
+.bgcdw_login_form_buttons .bgcdw_login_form_register { display: none; }
+
+.bgc_button, .bgcdw_button { margin-right: 0; }
+
+
+.bgcdw_login_container { width: auto; }
+.bgcdw_login_container .bgcdw_login_form_username, .bgcdw_login_container .bgcdw_login_form_password { display: inline-block; position: relative; }
+.bgcdw_login_container label { display: none !important; }
+.bgc_signup_container, .bgcdw_login_container, .bgc_passwordReminder_container, #fb-connect-login-form-container, #pacman { border: 0px; padding: 0px;}
+.bgc .bgcdw_login_form_buttons { diplay: inline-block; position: relative; margin-top: 0; padding-right: 0; }
+
+.bgc div, .bgc span, .bgc h1, .bgc h2, .bgc h3, .bgc h4, .bgc h5, .bgc h6, .bgc p, .bgc a, .bgc img, .bgc ol, .bgc ul, .bgc li, .bgc fieldset, .bgc form, .bgc label, .bgc legend, .bgc table, .bgc tbody, .bgc tfoot, .bgc thead, .bgc tr, .bgc th, .bgc td {
+    vertical-align: top;
+}
+.bgc .bgcdw_login_container_remindpassword  { font-size: 9px; display: block; position: absolute; top: 35px; margin-top: 3px; padding-right: 0px; }
+.bgc .bgcdw_login_container_remindpassword a { color: #E1C467; font-size: 10px; }
+
+#rememberMeContainer { font-size: 9px; display: block; position: absolute; top: 21px; margin-top: 3px; padding-right: 0px; height: 10px;}
+#rememberMe { display: inline-block; height: 10px; vertical-align: middle; padding: 0px; margin: 0px;}
+#rememberMeLabel { display: inline-block; height: 10px; vertical-align: middle; margin-left: 3px;}
+
+.bgc fieldset { display: inline-block;}
+
+.bgc div.bgcdw_errors { margin: 3px; display: inline-block; position: relative; right: 0; z-index:auto;}
+.bgcdw_login_container div.bgcdw_errors { position: absolute; } /* Tooltips inside input fields */
+
+.rtl .bgc div.bgcdw_errors { left: 0; right:auto;}
+.bgc div.bgcdw_errors:hover ul, .bgc .bgcdw_errors_flash ul { margin-top: -4px; }
+.bgc div.bgcdw_errors:hover ul:before { top: 5px; }
+
+.rtl .bgc div.bgcdw_errors:hover ul:before {
+    right: -15px; left: auto;   /* !IE */ border-left: 15px solid #FF0000; border-right: none;
+}
+
+.rtl .bgc div.bgcdw_errors:hover ul, .rtl .bgc .bgcdw_errors_flash ul { margin-left: auto; margin-right: 30px; }
+
+/* signupForm */
+.bgc .bgc_signup_form_signup div label { width: 135px; }
+
+.bgc .bgc_signup_form_signup .bgcdw_birthdatedate label { width: 120px; }
+
+.rtl .bgc input[type="text"],
+.rtl .bgc input[type="email"],
+.rtl .bgc input[type="password"] { float: right; }
+
+.bgc_signup_container_form input[type=text],
+.bgc_signup_container_form input[type=email],
+.bgc_signup_container_form input[type=password],
+.bgc_signup_short_container input[type=text],
+.bgc_signup_short_container input[type=email],
+.bgc_signup_short_container input[type=password]
+{ width: 131px; }
+
+.bgc_doi_hint {display: inline-block; padding: 5px 0 !important}
+
+.bgc_signup_container{ width: auto; min-height: 300px; height: 300px; padding: 2px; }
+#bgc_signup_short_container { width: auto; min-height: 300px; height: 300px; padding: 2px; }
+
+.bgc_signup_container label,
+.bgc_signup_short_container label
+{ font-weight:bold; color: #2D0600; }
+
+.bgc div.bgc_password_indicator {width: 141px !important; padding-left: 132px !important;}
+.bgc div.bgc_password_indicator .status {padding: 0 !important;}
+
+.bgc .bgc_signup_form_legal { margin-top: 0px; }
+.bgc .bgc_signup_form_legal label { width: auto; }
+.rtl .bgc .bgc_signup_form_legal label { margin-left: auto; margin-right: 12px; }
+
+
+.bgc .bgc_signup_form_legal label { font-weight: normal; margin-left: 5px; width: 251px; }
+.rtl .bgc .bgc_signup_form_legal label { margin-left: 0px; margin-right: 5px; width: 271px; }
+
+.bgc fieldset div.bgc_signup_form_policies { width: 315px; margin: 0 auto; text-align: center;}
+
+.bgc fieldset div { height: 28px; }
+.rtl .bgc fieldset div label { float: right; }
+
+.bgc .bgc_signup_form_buttons { display: none; }
+
+.bgc fieldset.bgc_passwordReminder_form_passwordReminder { margin: 0; }
+
+.rtl .bgc .bgcdw_date_fields { float:right; }
+
+.bgc .bgcdw_date_fields .bgcdw_day_list { width: 40px; }
+.bgc .bgcdw_date_fields .bgcdw_month_list { width: 70px; }
+.bgc .bgcdw_date_fields .bgcdw_year_list { width: 49px; }
+.bgc .bgcdw_date_fields div { width: auto; }
+
+.rtl .bgc_signup_form_legal input[type="checkbox"] { float:right; }
+
+.bgc .bgcdw_date_fields div { border: 0; }
+
+.rtl .bgc .bgcdw_date_fields div { float: right; }
+.rtl .bgc .bgcdw_date_separator { float: right; }
+
+.bgc .bgcdw_date_fields select {
+    background-color: #FDECC1;
+    border: 1px solid #343333;
+    box-shadow: 2px 2px 2px #666666 inset;
+    color: #326D6B;
+    font-size: 10px;
+}
+
+.rtl .bgc .bgcdw_captcha_response_container label, .bgc .bgcdw_capcha_response_container label { float: right; }
+
+.bgc .bgcdw_captcha { margin-top: 0px; }
+#recaptcha_image { margin: 0; height:auto !important; }
+
+.newClass { height: auto; }
+.overflow-x { overflow-x: hidden; }
+.overflow-y { overflow-y: hidden; }
+
+
+.bgc input[type=checkbox].bgcdw_errors { margin-left:0; margin-right:0; } /* IE */

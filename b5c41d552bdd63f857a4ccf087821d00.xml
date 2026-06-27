@@ -1,0 +1,25 @@
+<themes>
+    <theme graphicId="0">
+    </theme>
+    <theme graphicId="1">
+    </theme>
+    <theme graphicId="2">
+    </theme>
+	<!-- DESERT THEME -->
+	<theme graphicId="3">
+		<img src="img/harbour/buttons/governor.png" alt="img/harbour/desert/buttons/governor.png" />
+		<img src="img/harbour/buttons/guild.png" alt="img/harbour/desert/buttons/guild.png" />
+		<img src="img/harbour/buttons/shipyard.png" alt="img/harbour/desert/buttons/shipyard.png" />
+		<img src="img/harbour/buttons/tavern.png" alt="img/harbour/desert/buttons/tavern.png" />
+		<img src="img/harbour/buttons/auctionhouse.png" alt="img/harbour/desert/buttons/auctionhouse.png" />
+		<img src="img/harbour/buttons/crafter.png" alt="img/harbour/desert/buttons/crafter.png" />
+		<img src="img/icons/avatar/harbour/big/governor.png" alt="img/halloween/icons/avatar/desert/harbour/big/governor.png" />
+		<img src="img/icons/avatar/harbour/big/guild.png" alt="img/icons/avatar/desert/harbour/big/guild.png" />
+		<img src="img/icons/avatar/harbour/big/shipyard.png" alt="img/icons/avatar/desert/harbour/big/shipyard.png" />
+		<img src="img/icons/avatar/harbour/big/tavern.png" alt="img/icons/avatar/desert/harbour/big/tavern.png" />
+		<img src="img/icons/avatar/harbour/big/auctionhouse.png" alt="img/icons/avatar/desert/harbour/big/auctionhouse.png" />
+		<img src="img/icons/avatar/harbour/big/battlemaster.png" alt="img/icons/avatar/desert/harbour/big/battlemaster.png" />
+		<img src="img/icons/avatar/harbour/big/smugglersbay.png" alt="img/icons/avatar/desert/harbour/big/smugglersbay.png" />
+		<img src="img/icons/avatar/harbour/big/crafter.png" alt="img/icons/avatar/desert/harbour/big/crafter.png" />
+    </theme>
+</themes>
