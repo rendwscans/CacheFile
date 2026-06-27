@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<cross-domain-policy>
+    <site-control permitted-cross-domain-policies="master-only" />
+    <allow-access-from domain="bpid.bigpoint.net" />
+    <allow-access-from domain="assets.bpsecure.com" />
+</cross-domain-policy>
+

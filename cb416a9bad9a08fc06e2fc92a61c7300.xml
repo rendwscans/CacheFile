@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="tutorial">
+  <item name="next"><![CDATA[CONTINUAR]]></item>
+  <item name="skip"><![CDATA[Saltar tutorial]]></item>
+  <item name="skip.button"><![CDATA[SALTAR TUTORIAL]]></item>
+  <item name="friendsName" loca="no"><![CDATA[Roberto]]></item>
+  <item name="mapName"><![CDATA[Águas agitadas]]></item>
+  <item name="featureDisabled"><![CDATA[Esta função não está disponível no tutorial.]]></item>
+ </category>
+ <category name="tutorial.step">
+  <item name="1"><![CDATA[Bem-vindo ao Pirate Storm, marinheiro de água doce!]]></item>
+  <item name="2"><![CDATA[Para saltar o tutorial, basta clicar no botão "Saltar tutorial"!]]></item>
+  <item name="3"><![CDATA[Para navegares para qualquer lugar, basta clicares na superfície da água para onde pretendes navegar.]]></item>
+  <item name="4"><![CDATA[Parece que alguém se meteu em sarilhos. Ajuda-os e dá cabo do monstro!]]></item>
+  <item name="5"><![CDATA[Navega perto do monstro marinho e derrota-o com os teus arpões.]]></item>
+  <item name="6"><![CDATA[Selecciona o monstro clicando nele.]]></item>
+  <item name="7"><![CDATA[A localização do teu alvo é mostrado aqui.]]></item>
+  <item name="8"><![CDATA[Os teus pontos de vida e pontos de experiência são mostrados aqui.]]></item>
+  <item name="9"><![CDATA[Estás dentro da linha de fogo! Clica no botão "Atacar".]]></item>
+  <item name="10"><![CDATA[Na muche! A tua tripulação vai precisar de algum tempo para recarregar o lança-arpões.]]></item>
+  <item name="11"><![CDATA[A costa está livre! É tempo de navegar para o próximo porto.]]></item>
+  <item name="12"><![CDATA[A essa velocidade, não vais conseguir. Usa um par de velas para aumentar a velocidade do navio.]]></item>
+  <item name="13"><![CDATA[Abre o inventário.]]></item>
+  <item name="14"><![CDATA[Aqui podes equipar o teu navio com mastros e velas.]]></item>
+  <item name="15"><![CDATA[Activa a vela que está armazenada clicando nela.]]></item>
+  <item name="16"><![CDATA[Muito bem! Fecha a janela para podermos continuar.]]></item>
+  <item name="17"><![CDATA[Este é o mini-mapa que te mostra a área geográfica nas proximidades.]]></item>
+  <item name="18"><![CDATA[Os alvos inimigos estão marcados a "vermelho".]]></item>
+  <item name="19"><![CDATA[Para veres para além das proximidades, usa a roda do rato para diminuir o zoom. Experimenta agora!]]></item>
+  <item name="20"><![CDATA[Este navio parece ser hostil.]]></item>
+  <item name="21"><![CDATA[Navega dentro da linha de fogo clicando no alvo da seta.]]></item>
+  <item name="22"><![CDATA[Combate os navios inimigos com canhões. Selecciona o navio inimigo e dispara uma salva.]]></item>
+  <item name="23"><![CDATA[Fogo!]]></item>
+  <item name="24"><![CDATA[Parece que o inimigo perdeu a sua carga em batalha.]]></item>
+  <item name="25"><![CDATA[Salva as caixas. Pode ser que encontres algo valioso.]]></item>
+  <item name="26"><![CDATA[Parece que encontraste umas quantas balas de canhão topo de gama.]]></item>
+  <item name="27"><![CDATA[O teu navio foi danificado na última batalha. É tempo de repará-lo.]]></item>
+  <item name="28"><![CDATA[Podes reparar o teu navio seleccionando uma opção de reparação.]]></item>
+  <item name="29"><![CDATA[Selecciona a "reparação lenta"]]></item>
+  <item name="30"><![CDATA[Muito bem! Infelizmente só podes reparar o teu navio quando não está envolvido numa batalha.]]></item>
+  <item name="31"><![CDATA[Conseguiste! Agora deves seguir para o porto.]]></item>
+  <item name="32"><![CDATA[Contudo, antes deves comprar mais canhões para poderes defender-te melhor no futuro.]]></item>
+  <item name="33"><![CDATA[Clica no botão "Comprar". Os canhões que compraste são equipados automaticamente desde que tenhas espaço suficiente a bordo do teu navio.]]></item>
+  <item name="34"><![CDATA[Clica no botão "OK" para fechar a "Janela de informação".]]></item>
+  <item name="35"><![CDATA[Isto deve ajudar contra os perigos que ainda espreitam. Agora, fecha a janela da loja.]]></item>
+  <item name="36"><![CDATA[Para encontrares o porto, abre o Mapa das Zonas.]]></item>
+  <item name="37"><![CDATA[Agora, clica no porto para o teu navio navegar para lá directamente.]]></item>
+  <item name="38"><![CDATA[O percurso foi definido. Agora, fecha o Mapa das Zonas.]]></item>
+  <item name="39"><![CDATA[Bem-vindo ao porto!]]></item>
+  <item name="40"><![CDATA[Aqui estás a salvo dos monstros marinhos e outros piratas.]]></item>
+  <item name="41"><![CDATA[Visita o Governador aqui, para comprar melhorias úteis.]]></item>
+  <item name="42"><![CDATA[Isto é o estaleiro, podes atracar o teus navios aqui.]]></item>
+  <item name="43"><![CDATA[Isto é a taberna, podes encontrar missões aqui mais tarde.]]></item>
+  <item name="44"><![CDATA[É aqui que encontras o hall de guildas através do qual podes fundar a tua própria guilda.]]></item>
+  <item name="45"><![CDATA[Aqui encontras a Casa de Leilões. Na Casa de Leilões podes arrematar itens valiosos.]]></item>
+  <item name="46"><![CDATA[Clica no botão "Abandonar porto" para sair do porto.]]></item>
+  <item name="47"><![CDATA[Experimenta a nova munição que conseguiste na última batalha.]]></item>
+  <item name="48"><![CDATA[Selecciona a nova munição clicando nela.]]></item>
+  <item name="49"><![CDATA[Experimenta naqueles piratas lá ao fundo.]]></item>
+  <item name="50"><![CDATA[Vamos ver a quantidade de danos que este tipo de munição pode provocar.]]></item>
+  <item name="51"><![CDATA[Impressionante! Parece que este tipo de munição aumenta significativamente os danos provocados.]]></item>
+  <item name="52"><![CDATA[Bom trabalho, Capitão! Agora que já conseguiste os teus trajectos marítimos, é hora de zarpar para o mundo do Pirate Storm.]]></item>
+  <item name="53"><![CDATA[Define um percurso para o portal para terminar o tutorial.]]></item>
+  <item name="54"><![CDATA[Se clicares no botão "Alterar mapas" alternas entre mapas.]]></item>
+ </category>
+ <category name="tutorial.end">
+  <item name="title"><![CDATA[Parabéns!]]></item>
+  <item name="text"><![CDATA[Concluíste com sucesso o tutorial do Pirate Storm e possuis todo o conhecimento necessário para seres um pirata impressionante.]]></item>
+  <item name="additional"><![CDATA[Caso tenhas perguntas adicionais, usa a ajuda no jogo (clica no ponto de interrogação), pede ajuda a outros jogadores no chat ou usa o fórum para contactar os nossos gestores da comunidade.]]></item>
+  <item name="titleSkipped"><![CDATA[Saltaste o tutorial!]]></item>
+  <item name="textSkipped"><![CDATA[Saltaste o tutorial do Pirate Storm.]]></item>
+  <item name="button"><![CDATA[ENTRAR NO MUNDO]]></item>
+ </category>
+ <category name="tutorial.info">
+  <item name="1"><![CDATA[Alarme! Estamos a ser atacados! Ei, clandestino! Sai do teu buraco. O nosso querido capitão meteu-se com as pessoas erradas. Estes vermes miseráveis meteram-se com as pessoas erradas!]]></item>
+  <item name="2"><![CDATA[Au secours! O capitão viu-te! Ele... ups... tu mandaste-o ao mar, mon ami! Assim, sem mais nem menos? BRAVO! URRA! Estamos livres, comparsa. Finalmente!]]></item>
+  <item name="3"><![CDATA[Uau! És mesmo um pirata de fibra. Mas a batalha ainda não está ganha. Segue o navio - <span fontWeight="bold" color="#0339b3">clica na água</span> para te movimentares.]]></item>
+  <item name="4"><![CDATA[Mon dieu! Está na hora de acertarmos as contas com estes tipos. <span fontWeight="bold" color="#0339b3">Marca-os</span> com um clique e ataca-os com um <span fontWeight="bold" color="#0339b3">clique duplo</span> com a <span fontWeight="bold" color="#0339b3">[barra de espaço]</span> ou com o <span fontWeight="bold" color="#0339b3">botão de ataque</span>.]]></item>
+  <item name="5"/>
+  <item name="6"><![CDATA[Ahahahaha! Marujo imundo! O que apanhaste agora é meu: El Gano, o tormento dos mares! Eu sou o melhor!]]></item>
+  <item name="7"><![CDATA[Quem madruga... rouba primeiro. É a lei do mar. Embora ainda haja restos de <span fontWeight="bold" color="#0339b3">pilhagens</span> no oceano. <span fontWeight="bold" color="#0339b3">Vamos encontrá-las.</span>]]></item>
+  <item name="8"><![CDATA[Óptimo trabalho. <span fontWeight="bold" color="#0339b3">O nosso stock de ouro</span> está a crescer. O nosso barco está que mete dó. Olha como está a nossa <span fontWeight="bold" color="#0339b3">barra de PV.</span>]]></item>
+  <item name="9"><![CDATA[Vamos dar um jeito no navio enquanto há tempo. Selecciona a <span fontWeight="bold" color="#0339b3">"Reparação lenta"</span> para darmos trabalho ao carpinteiro.]]></item>
+  <item name="10"><![CDATA[Sacre Bleu! Vemos-te a léguas! Parece que tens muitos talentos, mon ami. Quem sabe se não te vais tornar no nosso próximo capitão...]]></item>
+  <item name="11"><![CDATA[Harr! Capitão! Se queres comandar este navio vais ter que mostrar do que és capaz. Aceita a próxima missão. Acredito em ti! <span fontWeight="bold" color="#0339b3">Escolhe uma missão.</span>]]></item>
+  <item name="12"><![CDATA[Precisas de mais <span fontWeight="bold" color="#0339b3">informações</span>? Clica na lupa para veres os detalhes.]]></item>
+  <item name="13"><![CDATA[Harr! Já sentiste o sabor do sangue? Muito bem! Vê só o que encontrei na cabine do nosso querido capitão. Um <span fontWeight="bold" color="#0339b3">diário de missões</span>. Com ele não vais esquecer-te de nada.]]></item>
+  <item name="14"><![CDATA[Os <span fontWeight="bold" color="#0339b3">monstros</span> não podem ser mortos com canhões, <span fontWeight="bold" color="#0339b3">compra arpões</span>, parece que são alérgicos a eles!]]></item>
+  <item name="15"><![CDATA[Para a batalha, mon ami! Acredito em ti. Transforma esta besta em comida para peixe!]]></item>
+  <item name="16"><![CDATA[Um pirata de verdade não pode deixar de ter <span fontWeight="bold" color="#0339b3">balas de aço.</span> Harr, harr! Trouxemos-te algumas. <span fontWeight="bold" color="#0339b3">Clica para te equipares com elas.</span>
+]]></item>
+  <item name="17"><![CDATA[Arr! Frio e calculista. Ainda vamos fazer de ti um verdadeiro pirata. Está na hora de trocarmos o equipamento do navio. <span fontWeight="bold" color="#0339b3">Compra um novo canhão!</span>]]></item>
+  <item name="18"><![CDATA[Aha, carne fresca! Nunca te tinha visto por aqui. És novo na região? <span fontWeight="bold" color="#0339b3">Andas à procura de potência de destruição...</span> Então, recomendo a nossa <span fontWeight="bold" color="#0339b3">secção de canhões.</span>]]></item>
+  <item name="19"><![CDATA[Oh, lá lá! Há uma <span fontWeight="bold" color="#0339b3">nova missão</span> para ti. Tu sabes o que fazer!]]></item>
+  <item name="20"><![CDATA[O quê? Como é que chegas a Carados? Carados fica na <span fontWeight="bold" color="#0339b3">direcção norte.</span> Dá uma olhadela no teu <span fontWeight="bold" color="#0339b3">mapa</span>...]]></item>
+  <item name="21"><![CDATA[Arr! És um bom navegador. Vejamos… Estamos nas <span fontWeight="bold" color="#0339b3">águas tormentosas</span>… Temos de navegar até à <span fontWeight="bold" color="#0339b3">fronteira septentrional</span> e depois vamos até <span fontWeight="bold" color="#0339b3">Carados</span>.]]></item>
+  <item name="22"><![CDATA[Ahaha! Queres uma pilhagem? Esquece, pendejo! Não é qualquer um que derrota El Gano e se não tens o que é preciso, não há pilhagem. Ahaha!]]></item>
+  <item name="23"><![CDATA[El Gano! Tu ... seu filho da mãe! Não vais escapar assim. Não vais. Nem pensar! Vamos, chefe. Atrás dele!]]></item>
+  <item name="24"><![CDATA[A tripulação ficou impressionada, capitão. Já não temos que ficar eternamente na taverna. Ainda bem que demos um jeitinho num velho canhão.]]></item>
+  <item name="25"><![CDATA[Sacre bleu! Mas que pressa, meu capitão. Ainda não terminámos... Tens a certeza de que queres sair do mapa?]]></item>
+  <item name="26"><![CDATA[Merde! Aquele idiota escapou outra vez. El Gano, Du Filou! Da próxima vez não escapa!]]></item>
+  <item name="27"><![CDATA[Estamos sempre aqui para ti, meu capitão.. ao pé do canhão! <span fontWeight="bold" color="#0339b3">Clica no botão "?"</span> para receberes ajuda.]]></item>
+  <item name="28"><![CDATA[Aqui no porto podes recuperar das pilhagens. Na taverna encontras sempre <span fontWeight="bold" color="#0339b3">missões</span>. Olha sempre para o fim da lista.]]></item>
+  <item name="29"><![CDATA[Tranquilo, utiliza a <span fontWeight="bold" color="#0339b3">"Reparação lenta"</span>. A rápida não é possível...]]></item>
+  <item name="30"><![CDATA[Muito bem. Agora podes aceitar a <span fontWeight="bold" color="#0339b3">missão</span>!]]></item>
+  <item name="31"><![CDATA[Arrr… não! Não chega para comprar arpões... <span fontWeight="bold" color="#0339b3">Compra algo mais barato.</span>]]></item>
+  <item name="32"><![CDATA[Não temos ouro suficiente para comprar arpões... Mas não te preocupes, porque os homens fizeram uma vaquinha com o dinheiro deles para te dar uma ajudinha na compra.]]></item>
+ </category>
+</language>

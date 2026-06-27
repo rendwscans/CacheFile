@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+  
+  
+<!-- Read this: www.adobe.com/devnet/articles/crossdomain_policy_file_spec.html -->
+
+<!-- Active policy: -->
+	<site-control permitted-cross-domain-policies="all"/>
+	<!-- bigpoint -->
+	<allow-access-from domain="*.bigpoint.net" secure="false"/> 
+	<allow-access-from domain="*.bigpoint.com" secure="false"/> 
+	<!-- cdn hosts -->
+	<allow-access-from domain="*.bpcdn.com" secure="false"/> 
+	<allow-access-from domain="*.bpcdn.net" secure="false"/> 
+	<allow-access-from domain="*.bpsecure.com" secure="false"/> 
+	<!-- domains -->
+	<allow-access-from domain="*.piratestorm.com" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.com.ar" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.at" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.be" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.bg" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.bo" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.com.br" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.ch" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.cl" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.co" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.com.co" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.com" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.cz" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.de" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.dk" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.es" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.eu" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.fr" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.gr" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.hu" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.co.id" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.in" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.it" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.jp" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.kr" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.co.kr" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.mx" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.com.mx" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.net" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.nl" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.org" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.pe" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.pl" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.ro" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.ru" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.si" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.sk" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.tw" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.com.tw" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.co.uk" secure="false"/> 
+	<allow-access-from domain="*.piratestorm.com.ve" secure="false"/> 
+	
+<!-- Most restrictive policy: -->
+<!--
+	<site-control permitted-cross-domain-policies="none"/>
+-->
+<!-- Least restrictive policy: -->
+<!--
+	<site-control permitted-cross-domain-policies="all"/>
+	<allow-access-from domain="*" to-ports="*" secure="false"/>
+	<allow-http-request-headers-from domain="*" headers="*" secure="false"/>
+-->
+<!--
+  If you host a crossdomain.xml file with allow-access-from domain=“*” 	 	
+  and don’t understand all of the points described here, you probably 	 	
+  have a nasty security vulnerability. ~ simon willison
+-->
+
+</cross-domain-policy>
