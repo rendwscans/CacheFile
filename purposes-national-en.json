@@ -1,0 +1,247 @@
+{
+  "version": "v1",
+  "jurisdiction": "national",
+  "language": "en",
+  "purposes": [
+    {
+      "id": 1,
+      "category": "Share",
+      "defaultValue": false,
+      "portal": {
+        "title": "Sharing Opt-Out",
+        "description": "I want to opt-out of the Sharing of my Personal Data."
+      },
+      "consentBanner": {
+        "title": "Personal Data Processing Opt Outs",
+        "description": "I want to opt-out of the Sharing of my personal data."
+      }
+    },
+    {
+      "id": 2,
+      "category": "Sale",
+      "defaultValue": false,
+      "portal": {
+        "title": "Sale Opt-Out",
+        "description": "I want to opt-out of the Sale of my Personal Data."
+      },
+      "consentBanner": {
+        "title": "Personal Data Processing Opt Outs",
+        "description": "I want to opt-out of the Sale of my Personal Data."
+      }
+    },
+    {
+      "id": 3,
+      "category": "TargetedAdvertising",
+      "defaultValue": false,
+      "portal": {
+        "title": "Targeted Advertising Opt-Out",
+        "description": "I want to opt-out of processing my Personal Data for Targeted Advertising."
+      },
+      "consentBanner": {
+        "title": "Personal Data Processing Opt Outs",
+        "description": "I want to opt-out of processing my Personal Data for Targeted Advertising."
+      }
+    },
+    {
+      "id": 4,
+      "category": "PersonalData",
+      "defaultValue": true,
+      "portal": {
+        "title": "Personal Data Consent",
+        "description": "I want to opt-out of Collection, Use, Retention, Sale, and/or Sharing of my Personal Data that Is Unrelated with the Purposes for which it was collected."
+      },
+      "consentBanner": {
+        "title": "Personal Data Processing Opt Outs",
+        "description": "I want to opt-out of Collection, Use, Retention, Sale, and/or Sharing of my Personal Data that Is Unrelated with the Purposes for which it was collected."
+      }
+    },
+    {
+      "id": 5,
+      "category": "SensitiveData",
+      "defaultValue": true,
+      "portal": {
+        "title": "Sensitive Data Processing",
+        "description": "I want to request to not process my sensitive data."
+      },
+      "consentBanner": {
+        "title": "Sensitive Data Processing Opt Outs",
+        "description": "I want to request to not process my sensitive data."
+      },
+      "purposes": [
+        {
+          "id": 1,
+          "order": 1,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of my Sensitive Personal Data Revealing Racial or Ethnic Origin.",
+          "portal": {
+            "title": "Racial or Ethnic Origin",
+            "description": "I want to opt-out of processing of my Sensitive Personal Data Revealing Racial or Ethnic Origin."
+          }
+        },
+        {
+          "id": 2,
+          "order": 2,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of my Sensitive Personal Data Revealing Religious or Philosophical Beliefs.",
+          "portal": {
+            "title": "Religious or Philosophical Beliefs",
+            "description": "I want to opt-out of processing of my Sensitive Personal Data Revealing Religious or Philosophical Beliefs."
+          }
+        },
+        {
+          "id": 3,
+          "order": 3,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of my Sensitive Personal Data Concerning a Consumer’s Health (including a Mental or Physical Health Condition or Diagnosis; Medical History; or Medical Treatment or Diagnosis by a Health Care Professional).",
+          "portal": {
+            "title": "Consumer’s Health",
+            "description": "I want to opt-out of processing of my Sensitive Personal Data Concerning a Consumer’s Health (including a Mental or Physical Health Condition or Diagnosis; Medical History; or Medical Treatment or Diagnosis by a Health Care Professional)."
+          }
+        },
+        {
+          "id": 4,
+          "order": 4,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of my Sensitive Personal Data Revealing Sex Life or Sexual Orientation.",
+          "portal": {
+            "title": "Sex Life and Orientation",
+            "description": "I want to opt-out of processing of my Sensitive Personal Data Revealing Sex Life or Sexual Orientation."
+          }
+        },
+        {
+          "id": 5,
+          "order": 5,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of my Sensitive Personal Data Revealing Citizenship or Immigration Status.",
+          "portal": {
+            "title": "Citizenship or Immigration Status",
+            "description": "I want to opt-out of processing of my Sensitive Personal Data Revealing Citizenship or Immigration Status."
+          }
+        },
+        {
+          "id": 6,
+          "order": 6,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of my Genetic Data for the Purpose of Uniquely Identifying an Individual / Natural Person.",
+          "portal": {
+            "title": "Genetic Data",
+            "description": "I want to opt-out of processing of my Genetic Data for the Purpose of Uniquely Identifying an Individual / Natural Person."
+          }
+        },
+        {
+          "id": 7,
+          "order": 7,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of my Biometric Data for the Purpose of Uniquely Identifying an Individual / Natural Person.",
+          "portal": {
+            "title": "Biometric Data",
+            "description": "I want to opt-out of processing of my Biometric Data for the Purpose of Uniquely Identifying an Individual / Natural Person."
+          }
+        },
+        {
+          "id": 8,
+          "order": 8,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of my Precise Geolocation Data.",
+          "portal": {
+            "title": "Precise Geolocation",
+            "description": "I want to opt-out of processing of my Precise Geolocation Data."
+          }
+        },
+        {
+          "id": 9,
+          "order": 9,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of my Social Security, Driver’s License, State Identification Card, or Passport Number.",
+          "portal": {
+            "title": "Identification Cards",
+            "description": "I want to opt-out of processing of my Social Security, Driver’s License, State Identification Card, or Passport Number."
+          }
+        },
+        {
+          "id": 10,
+          "order": 10,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of my Account Log-In, Financial Account, Debit Card, or Credit Card Number in Combination with Any Required Security or Access Code, Password, or Credentials Allowing Access to an Account.",
+          "portal": {
+            "title": "Financial Cards and Access Code",
+            "description": "I want to opt-out of processing of my Account Log-In, Financial Account, Debit Card, or Credit Card Number in Combination with Any Required Security or Access Code, Password, or Credentials Allowing Access to an Account."
+          }
+        },
+        {
+          "id": 11,
+          "order": 11,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of my Union Membership.",
+          "portal": {
+            "title": "Union Membership",
+            "description": "I want to opt-out of processing of my Union Membership."
+          }
+        },
+        {
+          "id": 12,
+          "order": 12,
+          "title": "SensitiveDataProcessing",
+          "description": "I want to opt-out of processing of contents of my Mail, Email, and Text Messages unless You Are the Intended Recipient of the Communication.",
+          "portal": {
+            "title": "Social Messages",
+            "description": "I want to opt-out of processing of contents of my Mail, Email, and Text Messages unless You Are the Intended Recipient of the Communication."
+          }
+        },
+        {
+          "id": 13,
+          "order": 13,
+          "title": "SensitiveDataProcessing",
+          "description": "Consent to Process Consumer Health Data about the Consumer.",
+          "portal": {
+            "title": "Process Consumer Health Data",
+            "description": "Consent to Process Consumer Health Data about the Consumer."
+          }
+        },
+        {
+          "id": 14,
+          "order": 14,
+          "title": "SensitiveDataProcessing",
+          "description": "Consent to Process Data Concerning the Consumer’s Status as a Victim of Crime.",
+          "portal": {
+            "title": "Consumer Status",
+            "description": "Consent to Process Data Concerning the Consumer’s Status as a Victim of Crime."
+          }
+        },
+        {
+          "id": 15,
+          "order": 15,
+          "title": "SensitiveDataProcessing",
+          "description": "Consent to Process the Consumer’s Sensitive Personal Information Consisting of Personal Information Revealing National Origin.",
+          "portal": {
+            "title": "National Origin",
+            "description": "Consent to Process the Consumer’s Sensitive Personal Information Consisting of Personal Information Revealing National Origin."
+          }
+        },
+        {
+          "id": 16,
+          "order": 16,
+          "title": "SensitiveDataProcessing",
+          "description": "Consent to Process the Consumer’s Sensitive Personal Information Consisting of Personal Information Revealing Status as Transgender or Nonbinary.",
+          "portal": {
+            "title": "Transgender or Nonbinary",
+            "description": "Consent to Process the Consumer’s Sensitive Personal Information Consisting of Personal Information Revealing Status as Transgender or Nonbinary."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "KnownChildSensitiveData",
+      "defaultValue": true,
+      "portal": {
+        "title": "Child-sensitive data processing consent",
+        "description": "I am a child and want to opt-out of processing of my Personal Data or Sensitive Data."
+      },
+      "consentBanner": {
+        "title": "Child Sensitive Data Processing Opt Outs",
+        "description": "I am a child and want to opt-out of processing of my Personal Data or Sensitive Data."
+      }
+    }
+  ]
+}

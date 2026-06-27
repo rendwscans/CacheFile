@@ -1,0 +1,115 @@
+#PaymentLayerOuter { width: 980px; height: 533px; } /* global fix payment on landingpage*/
+
+#CloseLayer {
+	position: absolute;
+	z-index: 999;
+	color: #fff;
+	top: 0px;
+	right: 0px;
+	cursor: pointer;
+	cursor: hand; /* crossbrowser */
+	height: 16px;
+	width: 16px;
+	background: url(/images/global/icons/close_button.png) no-repeat center
+		transparent;
+}
+
+.rtl #CloseLayer { right: auto; left: 0; }
+
+#PaymentLayer {
+	position: absolute;
+	z-index: 2;
+	left: 5px;
+	top: 5px;
+	/*
+	width: 750px;
+	height: 480px;
+	*/
+	overflow: none; /* important for IE */
+	display: none;
+	width: auto;
+    background-color: #000;
+}
+
+.rtl #PaymentLayer { left: auto; right: 5px; }
+
+/*
+#PaymentLayer {
+	display: none;
+	position: absolute;
+	z-index: 2;
+	background-color: #000;
+	overflow: none;
+	width: 750px;
+	height: 480px;
+	left: 50%;
+	margin-top: 5px;
+	margin-left: -375px;
+}
+
+
+#PaymentLoading {
+	color: #fff;
+	*color: #000;
+	font-weight: bold;
+	position: absolute;
+	z-index: 3;
+	top: 230px;
+	left: 360px;
+	background-color: #000;
+	*background-color: transparent;
+    width: 250px;
+    height: 250px;
+    background: url(/images/global/payment/bg_default.jpg) no-repeat center
+        transparent;
+	
+}
+*/
+#PaymentLoading { 
+    position: absolute;
+    z-index: 3;
+    top: 0px;
+    left: 0px;
+}
+
+.rtl #PaymentLoading { left: auto; right: 0; }
+
+.p_default {
+	width: 972px;
+    height: 533px;
+    background: url(/images/global/payment/bg_default.jpg) no-repeat center transparent;
+}
+
+.rtl .p_default { background: url(/images/global/payment/rtl_bg_default.jpg) no-repeat center transparent; }
+
+.p_social {
+	width: 750px;
+    height: 450px;
+    background: url(/images/global/payment/bg_facebook.jpg) no-repeat center
+        transparent;
+}
+
+#PaymentLoading #compass {
+	z-index:998;
+	position:absolute;
+	top: 10%;
+	left: 10%;
+	width: 76px;
+	height: 73px;
+	background: url(/images/global/payment/compass-clock-76.gif) no-repeat center
+        transparent;
+}
+
+.rtl #PaymentLoading #compass { left: auto; right: 10%; }
+
+#PaymentLoading span {
+	position:absolute;
+	top: 10%;
+    left: 10%;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 76px;
+}
+
+.rtl #PaymentLoading span { left: auto; right: 10%; }
+
