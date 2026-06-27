@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="globalchat.chat">
+  <item name="enterPrivateRoomName"><![CDATA[Insira um nome para a sala privada.]]></item>
+  <item name="kickmsg"><![CDATA[Você foi retirado do chat pelo seguinte motivo: {$comment}]]></item>
+  <item name="banmsg"><![CDATA[Você foi banido do chat pelo seguinte motivo: {$comment}]]></item>
+  <item name="kickBySystem"><![CDATA[Você foi retirado do chat pelo sistema!]]></item>
+  <item name="roomnameTooShort"><![CDATA[Nome de sala muito curto!]]></item>
+  <item name="banBySystem"><![CDATA[Você foi banido do chat pelo sistema!]]></item>
+  <item name="noMorePrivateRoomsAllowed"><![CDATA[Você não pode criar mais Salas!]]></item>
+  <item name="wrongArguments"><![CDATA[Comando inválido.]]></item>
+  <item name="privateRoomNotExist"><![CDATA[A sala privada não existe.]]></item>
+  <item name="cannotWhisperYourself"><![CDATA[Você não pode sussurar para você mesmo.]]></item>
+  <item name="noWhisperMessage"><![CDATA[Para sussurrar para alguém, clique no nome de usuário ou escreva seu texto e adicione /w nome de usuário.]]></item>
+  <item name="userNotExistOrOnline"><![CDATA[Jogador não existe ou não está online.]]></item>
+  <item name="notRoomOwner"><![CDATA[Você não tem permissão para fechar esta sala.]]></item>
+  <item name="inviteErrorUserNotFound"><![CDATA[O usuário convidado não foi encontrado.]]></item>
+  <item name="inviteErrorNotYourRoom"><![CDATA[Você não pode convidar ninguém para esta sala, pois a sala não pertence a você.]]></item>
+  <item name="cannotInviteYourself"><![CDATA[Você não pode convidar a si próprio.]]></item>
+  <item name="connect"><![CDATA[Conectar]]></item>
+  <item name="privateRoomAlreadyExist"><![CDATA[A Sala já existe!]]></item>
+  <item name="privateRoomDeleted"><![CDATA[A sala {$room} foi deletada.]]></item>
+  <item name="floodWarning"><![CDATA[É proibido fazer spam e flooding!]]></item>
+  <item name="wrongVersion"><![CDATA[Você não está usando a versão atual do cliente do chat. Apague o cache do seu browser e atualize o jogo.]]></item>
+  <item name="roomnameTooLong"><![CDATA[O nome da sala é muito longo.]]></item>
+  <item name="cannotLeaveRoom"><![CDATA[Você não pode sair desta sala de chat.]]></item>
+  <item name="system"><![CDATA[Sistema]]></item>
+  <item name="fastReg"><![CDATA[Você só pode utilizar o chat após registrar-se por completo.]]></item>
+  <item name="userExcluded"><![CDATA[Você foi retirado da sala {$room}.]]></item>
+  <item name="roomClosed"><![CDATA[A sala {$room} foi fechada pelo proprietário.]]></item>
+  <item name="roomJoined"><![CDATA[Você entrou na sala {$room}.]]></item>
+  <item name="youWhisper"><![CDATA[Você sussurrou para {$user}:]]></item>
+  <item name="userWhispers"><![CDATA[{$user} sussurrou para você:]]></item>
+  <item name="connectionClosed"><![CDATA[A conexão com o servidor do chat foi interrompida.]]></item>
+ </category>
+ <category name="globalchat.loginerror">
+  <item name="banned"><![CDATA[Você foi banido do chat no dia {$dayBegin}/{$monthBegin}/{$yearBegin} às {$hourBegin}:{$minuteBegin}:{$secondBegin} por {$durationInMinutes} minutos. Você só poderá se logar novamente no dia {$dayEnd}/{$monthEnd}/{$yearEnd} às {$hourEnd}:{$minuteEnd}:{$secondEnd}.]]></item>
+  <item name="bannedForever"><![CDATA[Você foi banido do chat por tempo indeterminado.]]></item>
+ </category>
+ <category name="globalchat.options">
+  <item name="whisperTo"><![CDATA[Sussurrar para {$user}]]></item>
+  <item name="inviteTo"><![CDATA[Convidar para a sala {$room}]]></item>
+  <item name="copyName"><![CDATA[inserir "{$user}" no campo de texto]]></item>
+  <item name="updateUserList"><![CDATA[Atualizar lista de usuários]]></item>
+ </category>
+</language>

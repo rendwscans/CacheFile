@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="packageNames">
+  <item name="1"><![CDATA[Pacote de principiante "Multi-usos"]]></item>
+  <item name="2"><![CDATA[Pacote "Potencialização"]]></item>
+  <item name="3"><![CDATA[Pacote "Rompe-vigas"]]></item>
+  <item name="4"><![CDATA[Pacote "Rompe-cascos"]]></item>
+  <item name="5"><![CDATA[Pacote "Adorador lunar"]]></item>
+  <item name="6"><![CDATA[Pacote "Doação de sangue"]]></item>
+  <item name="158"><![CDATA[Pacote "Tesouro dos dragões"]]></item>
+  <item name="161"><![CDATA[Pacote do torneio lendário]]></item>
+  <item name="162"><![CDATA[Pacote Belzebu]]></item>
+  <item name="164"><![CDATA[Pacote de poder colossal]]></item>
+  <item name="165"><![CDATA[Pacote de caçador colossal]]></item>
+ </category>
+ <category name="packageDescriptions">
+  <item name="1"><![CDATA[Este pacote de principiante é o sonho de qualquer pirata. Por este preço imbatível não só recebes um incrível navio, como também um saco cheio de diamantes.]]></item>
+  <item name="2"><![CDATA[Esta oferta é perfeita para piratas espertos! Com ela, vais receber um carregamento de itens a um preço irresistível.]]></item>
+  <item name="3"><![CDATA[Esta oferta é para quem gosta de promoções! Com este pacote, vais conseguir todo o que precisas para as tuas abordagens a um preço irrisório.]]></item>
+  <item name="4"><![CDATA[Esta oferta é ideal para piratas que procuram uma boa relação qualidade-preço. Com este pacote, vais conseguir imensos itens e o navio adequado a um preço imbatível.]]></item>
+  <item name="5"><![CDATA[Esta oferta é ideal para piratas que gostam de estar sempre "um casco" à frente da concorrência! Com este pacote, vais conseguir vários itens úteis a um preço assombroso.]]></item>
+  <item name="6"><![CDATA[Aproveita agora! Este pacote incrível só vai estar disponível até <span fontWeight="bold">%time%</span>.]]></item>
+  <item name="158"><![CDATA[Com as suas poderosas baforadas de fogo, os soberanos dos ares protegem bem as suas propriedades. Enfrenta-os com bravura e ponha as mãos no seu precioso tesouro!]]></item>
+  <item name="161"><![CDATA[Garante este pacote lendário e prepara-te para o maior e mais lucrativo torneio de piratas que o oceano já viu!]]></item>
+  <item name="162"><![CDATA[Aproveita agora! Este pacote incrível só vai estar disponível até <span fontWeight="bold">%time%</span>.]]></item>
+  <item name="164"><![CDATA[Exerce a força da besta de gelo colossal e, em breve, serás o pirata mais poderoso dos sete mares! Um poder deste tipo é lendário, por isso obtém-no enquanto podes.]]></item>
+  <item name="165"><![CDATA[O poder do Inverno está disponível para os piratas mais corajosos! Este pacote de itens especiais vai ajudar-te a alcançar o domínio dos oceanos.]]></item>
+ </category>
+ <category name="packageDiscounts">
+  <item name="1"><![CDATA[Poupas 81%]]></item>
+  <item name="2"><![CDATA[Poupas 64%]]></item>
+  <item name="3"><![CDATA[Poupas 64%]]></item>
+  <item name="4"><![CDATA[Poupas 57%]]></item>
+  <item name="5"><![CDATA[Poupas 48%]]></item>
+  <item name="6"><![CDATA[Só por pouco tempo!]]></item>
+  <item name="158"><![CDATA[Por pouco tempo!]]></item>
+  <item name="161"><![CDATA[Por pouco tempo!]]></item>
+  <item name="162"><![CDATA[Por pouco tempo!]]></item>
+  <item name="164"><![CDATA[Por pouco tempo!]]></item>
+  <item name="165"><![CDATA[Por pouco tempo!]]></item>
+ </category>
+</language>
