@@ -1,0 +1,17 @@
+@media screen, projection
+{
+  /* Default Label Properties */
+  .label { background: url('/images/es/sprite-labels.jpg') no-repeat; }
+	
+  /* Slideshow Label Properties */	
+  .label-slide { background: url('/images/es/sprite-slide.png') no-repeat; }
+	
+  /* Boxes Properties */
+  .infoBox { background: url('/images/es/sprite-smallbox.jpg') no-repeat; }
+
+  /* Button Properties */
+  #actionStartButtonContainer { background: transparent url('/images/es/button_intern.png') no-repeat; }
+  #actionStartButtonContainer .glow { background: url('/images/es/button_intern_over.png') no-repeat; }
+  #bigActionButtonContainer { background: transparent url('/images/es/button_extern.png') no-repeat; }
+  #bigActionButtonContainer .glow { background: transparent url('/images/es/button_extern_over.png') no-repeat; }	
+}

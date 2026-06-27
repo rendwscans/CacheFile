@@ -1,0 +1,103 @@
+/* 
+    Document   : layer
+    Created on : 26.11.2013, 12:24:44
+    Author     : gspeck
+    Description:
+        Purpose of the stylesheet follows.
+*/
+#cinemaIframeWrapper {
+    width: 590px;
+    height:500px;
+    position: absolute;
+    background: transparent;
+    border:none;
+    overflow: hidden;
+    left: 50%;
+    margin-left: -300px;
+    top: 50%;
+    margin-top: -240px;
+    z-index: 20;
+}
+.clientlayer { 
+    behavior: url(css/PIE.htc);
+    color: #2d0600;
+    font-size: 11px;
+    font-family: verdana, arial;
+    width: 580px;
+    position:absolute;
+    border: 1px solid #FFF9B0;
+    background: #af7629; 
+    /*border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;*/
+    overflow: hidden;
+    box-shadow: 0 0 0 1px #e1b95a;
+    left: 50%;
+    margin-left: -300px;
+    top: 50%;
+    margin-top: -240px;
+    z-index: 20;
+}
+.clientlayer_foreShadow {
+    behavior: url(css/PIE.htc);
+    box-shadow: inset 1px 1px 1px 0px rgba(0,0,0,0.5);
+    pointer-events:none;
+    position:absolute;
+    width: 100%;
+    height: 100%;
+}
+.clientlayer_header {
+    behavior: url(css/PIE.htc);
+    width : auto;
+    height: 24px;
+    background: #c28f36; /* Old browsers */
+    background: -moz-linear-gradient(top,  #c28f36 0%, #e1b95a 49%, #cd9e45 49%, #af7629 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c28f36), color-stop(49%,#e1b95a), color-stop(49%,#cd9e45), color-stop(100%,#af7629)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #c28f36 0%,#e1b95a 49%,#cd9e45 49%,#af7629 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #c28f36 0%,#e1b95a 49%,#cd9e45 49%,#af7629 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #c28f36 0%,#e1b95a 49%,#cd9e45 49%,#af7629 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #c28f36 0%,#e1b95a 49%,#cd9e45 49%,#af7629 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c28f36', endColorstr='#af7629',GradientType=0 ); /* IE6-9 */
+    box-shadow: inset 0px 0px 8px -2px #332610, 0px -1px 8px 2px #000;
+}
+
+.clientlayer_wrapper {
+    behavior: url(css/PIE.htc);
+    overflow:hidden;
+    
+    height: 100%;
+    min-height: 100%;
+    background: #528894; /* Old browsers */
+    background: -moz-linear-gradient(top,  #528894 0%, #2b413e 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#528894), color-stop(100%,#2b413e)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #528894 0%,#2b413e 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #528894 0%,#2b413e 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #528894 0%,#2b413e 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #528894 0%,#2b413e 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#528894', endColorstr='#2b413e',GradientType=0 ); /* IE6-9 */
+    
+}
+
+.clientlayer_closebutton {
+    position:absolute;
+    right: 8px;
+    top:4px;
+    width: 17px;
+    height: 17px;
+    background: url(/images/global/icons/icon-close.png) no-repeat;
+    cursor:pointer;
+}
+
+.clientlayer_headertext {
+    width: auto;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-top: 3px;
+}
+
+.clientlayer_body {
+    padding: 10px;
+    color: #FFFFFF;
+}
